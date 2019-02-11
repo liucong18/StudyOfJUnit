@@ -3,7 +3,6 @@ package junit.test;
 import org.junit.Test;
 import util.Calculate;
 
-import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;
 
 /**
